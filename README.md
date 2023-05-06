@@ -1,2 +1,2 @@
 # GridLayout-cssGrid
-<img src="" alt="IMG">
+<img src="assets/css/img/GridLayout.png" alt="IMG">
